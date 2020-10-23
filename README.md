@@ -2,7 +2,7 @@
  React Todo List
 </h1>
 
-<p align="center">Aplicação para criação edição e exlcusão de itens de uma lista</p>
+<p align="center">Aplicação para criação, edição, exlcusão de itens em uma lista</p>
 
 <hr>
 
